@@ -1,0 +1,6 @@
+[submodule "mobile_app"]
+	path = mobile_app
+	url = git@github.com:yasushisakai/hansel
+[submodule "solver"]
+	path = solver
+	url = git@github.com:tkawahar/LaneDetect.git
