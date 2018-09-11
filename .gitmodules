@@ -7,3 +7,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = git@github.com:yasushisakai/LaneDetection.wiki.git
+[submodule "map"]
+	path = map
+	url = https://github.com/yasushisakai/LaneDetectionMap.git
